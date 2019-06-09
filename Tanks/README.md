@@ -1,8 +1,10 @@
-## Tanks
+## Tanks 001
 
-Krótki film na youtube
+Pierwszy projekt oparty jest o grę Tanks. Pokazujemy jak wyznaczyć i pokazać rozkład trafień czołgów w tej grze.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BloyE864h6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Krótki film na youtube (kliknij by uruchomić)
+
+[![Tanks_screenshot.png](Tanks_screenshot.png)](https://www.youtube.com/embed/BloyE864h6w)
 
 Aplikacja internetowa z symulatorem trafień
 https://statystyka-w-grach.shinyapps.io/Tanks/
@@ -13,4 +15,4 @@ Kody źródłowe tej aplikacji interentowej
 Kody źródłowe pojedynczej symulacji 
 [czolgi.R](czolgi.R)
 
-![Tanks_screenshot.png](Tanks_screenshot.png)
+
